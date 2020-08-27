@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/React-todo-tutorial/static/css/main.9a7d16ca.chunk.css",
-    "main.js": "/github.io/React-todo-tutorial/static/js/main.52138577.chunk.js",
-    "main.js.map": "/github.io/React-todo-tutorial/static/js/main.52138577.chunk.js.map",
-    "runtime-main.js": "/github.io/React-todo-tutorial/static/js/runtime-main.3ea58688.js",
-    "runtime-main.js.map": "/github.io/React-todo-tutorial/static/js/runtime-main.3ea58688.js.map",
-    "static/js/2.baa2e1ad.chunk.js": "/github.io/React-todo-tutorial/static/js/2.baa2e1ad.chunk.js",
-    "static/js/2.baa2e1ad.chunk.js.map": "/github.io/React-todo-tutorial/static/js/2.baa2e1ad.chunk.js.map",
-    "index.html": "/github.io/React-todo-tutorial/index.html",
-    "precache-manifest.0eedc778cb3dd4a577350a50b9d0b79b.js": "/github.io/React-todo-tutorial/precache-manifest.0eedc778cb3dd4a577350a50b9d0b79b.js",
-    "service-worker.js": "/github.io/React-todo-tutorial/service-worker.js",
-    "static/css/main.9a7d16ca.chunk.css.map": "/github.io/React-todo-tutorial/static/css/main.9a7d16ca.chunk.css.map",
-    "static/js/2.baa2e1ad.chunk.js.LICENSE.txt": "/github.io/React-todo-tutorial/static/js/2.baa2e1ad.chunk.js.LICENSE.txt"
+    "main.css": "/React-todo-tutorial/static/css/main.9a7d16ca.chunk.css",
+    "main.js": "/React-todo-tutorial/static/js/main.fadf16c1.chunk.js",
+    "main.js.map": "/React-todo-tutorial/static/js/main.fadf16c1.chunk.js.map",
+    "runtime-main.js": "/React-todo-tutorial/static/js/runtime-main.676670f3.js",
+    "runtime-main.js.map": "/React-todo-tutorial/static/js/runtime-main.676670f3.js.map",
+    "static/js/2.baa2e1ad.chunk.js": "/React-todo-tutorial/static/js/2.baa2e1ad.chunk.js",
+    "static/js/2.baa2e1ad.chunk.js.map": "/React-todo-tutorial/static/js/2.baa2e1ad.chunk.js.map",
+    "index.html": "/React-todo-tutorial/index.html",
+    "precache-manifest.06bc99945aa8ddbcba6a913aee9d2325.js": "/React-todo-tutorial/precache-manifest.06bc99945aa8ddbcba6a913aee9d2325.js",
+    "service-worker.js": "/React-todo-tutorial/service-worker.js",
+    "static/css/main.9a7d16ca.chunk.css.map": "/React-todo-tutorial/static/css/main.9a7d16ca.chunk.css.map",
+    "static/js/2.baa2e1ad.chunk.js.LICENSE.txt": "/React-todo-tutorial/static/js/2.baa2e1ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ea58688.js",
+    "static/js/runtime-main.676670f3.js",
     "static/js/2.baa2e1ad.chunk.js",
     "static/css/main.9a7d16ca.chunk.css",
-    "static/js/main.52138577.chunk.js"
+    "static/js/main.fadf16c1.chunk.js"
   ]
 }
